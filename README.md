@@ -1,4 +1,4 @@
-# ac算法(动态更新关键词)的实现
+# ac算法(动态更新关键词)的JAVA实现
 * 实现了比如短语“我有一个大飞机”，设置关键词“飞机”分类为1，使用`Patterns#searchKeyword`能够返回语句中的关键词”飞机“
 * `Patterns#addKeyword`添加“大飞机”关键词返回“大飞机”、“飞机”关键词。`Patterns#removeKeyword`删除“大飞机”关键词返回“飞机”关键词
 * 参考
